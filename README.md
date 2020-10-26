@@ -1,2 +1,2 @@
-# Fritz-Image-Labelling
-Image Labeling with [Fritz AI](https://www.fritz.ai)
+# Fritz Style Transfer
+Style Transfer in Android Applications with [Fritz AI](https://www.fritz.ai)
